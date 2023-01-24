@@ -1,0 +1,240 @@
+/* body{
+    width: 1000px;
+    height: 800px;
+    align-items: center;
+    justify-content: center;
+
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: auto;
+}
+
+.all{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.all .container{
+    margin-bottom: 65%;
+    text-align: center;
+    width: 600px;
+    height: 400px;
+    background-color: aqua; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.all .container .child h4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2rem;
+    height: 50px;
+    color: azure;
+    background-color: black;
+}
+.all .container .child button{
+    height: 30px;
+    border-radius: 2rem;
+} */
+/*  */
+/*  */
+/*  */
+/*  */
+
+
+/* Counter */
+/* .container{
+    
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+}
+
+.container .child{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container .child .number{
+    color: rgb(3, 12, 12);
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 80px;
+    width: 50px;
+    background-color: yellow;
+
+} */
+/*  */
+/* 
+
+
+
+*/
+/* Reviews */
+
+/* main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width: 700px;
+    height: 700px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    margin-bottom: 0px;
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container .line{
+    border-top: 2px solid rgb(0, 132, 255);
+    margin-bottom: 20px;
+    margin-left: 57px;
+    height: 5px;
+    width: 50px;
+}
+.container .review .img-container{
+    width: 500px;
+    height: 350px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 15px 5px 10px black;
+    border-radius: 5px;
+}
+
+.container .review .img-container #img{
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+button{
+    margin: 10px;
+    border: none;
+    background: none;
+    color: rgb(255, 17, 0); 
+} */
+
+/*  */
+/*  */
+/*  */
+
+/* Coding Addict */
+
+
+
+/* nav{
+  margin: 0;
+  background-color: aliceblue;
+  box-shadow: 0 0 10px 0 rgb(red, green, blue);
+}
+.logo{
+  max-width: 40px;
+}
+.nav-header{
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+ul{
+  list-style-type: none;
+}
+.links,.social-icons{
+  height: 0;
+  overflow: hidden;
+  transition: all 0.3s linear;
+}
+.nav-toggle{
+  background: transparent;
+  color: aqua;
+  border: transparent;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.social-icons{
+  display: flex;
+  flex-direction: row;
+}
+.show-links{
+  height: 5rem;
+  padding: 0.5rem;
+  letter-spacing: 0.2rem;
+}
+.show-social-icons{
+  
+}
+@media screen and (min-width : 800px) {
+  .nav-center{
+    max-width: 2000px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 1rem;
+  }
+  .nav-toggle{
+
+    display: none;
+  }
+  .social-icons{
+    display: flex;
+    height: auto;
+  }
+  .links{
+    display: flex;
+    height: auto;
+  }
+  .social-icons a{
+    padding: 0;
+    margin: 0 0.5rem;
+  }
+  .nav-header{
+    padding: 0;
+  }
+  .links a {
+    padding: 0;
+    margin: 0 0.5rem;
+    list-style-type: none;
+    text-decoration: none;
+    text-transform: capitalize;
+  }
+ 
+} */
+
+/* //////////////////////////////////////////////////// */
+/* //////////////////////////////////////////// */
+/*  */
+
