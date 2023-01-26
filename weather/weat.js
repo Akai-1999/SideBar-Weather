@@ -81,3 +81,13 @@ searchbox.addEventListener("keypress", setQuery);
 document.addEventListener("DOMContentLoaded", () => {
   getCity("london");
 });
+const togglebtn = document.querySelector(".sidebar-toggle");
+const closebtn = document.querySelector(".close-btn");
+const showBar = document.querySelector(".sidebar");
+
+togglebtn.addEventListener("click", () => {
+  showBar.classList.toggle("show-sidebar");
+});
+closebtn.addEventListener("click", () => {
+  showBar.classList.toggle("show-sidebar");
+});
