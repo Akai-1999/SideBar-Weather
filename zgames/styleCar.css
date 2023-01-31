@@ -1,16 +1,36 @@
 .road {
   position: relative;
   width: 800px;
-  height: 400px;
+  height: 600px;
   background-image: url("./road.jpg");
   /* background-color: aqua; */
   background-repeat: no-repeat;
-  background-size: 100% 200%;
+  background-size: 150% 250%;
   background-position: bottom;
+  overflow: hidden;
+  color: rgb(6, 4, 4);
+  font-size: 70px;
+  text-align: center;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
 }
 .car {
-  width: 40px;
-  height: 25px;
+  width: 80px;
+  height: 50px;
   position: absolute;
-  background-color: red;
+  background-image: url("./redCar.png");
+  background-size: 70px 40px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.VCar {
+  width: 80px;
+  height: 50px;
+  position: absolute;
+  background-image: url("./yellowCar.png");
+  background-size: 70px 40px;
+  background-repeat: no-repeat;
+  background-position: center;
 }
